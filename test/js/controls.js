@@ -66,7 +66,7 @@ f1.addInput(PARAMS, 'linkRadius', {
 
 f2.addButton({title: 'My Web Page'}).on('click', () =>
   window.open(
-    'https://github.com/CSSHoudini/css-houdini'
+    'https://dani-dolan.github.io/'
    
   )
 )
